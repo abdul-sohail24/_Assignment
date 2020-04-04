@@ -1,0 +1,10 @@
+–> 1)Find out the Traversal Nodes for Figure 2, Only the node names to be written.
+ref: Slide No : 154
+Ans) Inorder(Left,Parent,Right): DBPEEAFC
+     Preorder(Parent,Left,Right): ABDEPECF
+     Postorder(Left,Right,Parent): DEPEBFCA
+
+->2nd Question and 3rd Question codes have been attached
+
+-> 4)Quiz:Pdf has been attached.
+ 	 
